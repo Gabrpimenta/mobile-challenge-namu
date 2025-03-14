@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "DictionaryApp",
+    "slug": "DictionaryApp",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.anonymous.DictionaryApp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.DictionaryApp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "75c73582-cb37-441b-9be8-623e5cb62c67"
+      }
+    }
+  }
+}
